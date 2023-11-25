@@ -1,7 +1,9 @@
 # Background
-This is a demonstration webpage following the playbook included in this repository.
+AI-generated content has risen in popularity, so what is an easy way to learn how to use it?
 
-The playbook is a tutorial on how to create your own webpage using AI generated content, such as text, images, and video.
+This is a demonstration webpage on how to use Generative AI following the playbook included in this repository.
+
+The playbook is a tutorial shared by the [International Society of Service Innovation Professionals](https://issip.org/) (ISSIP) on how to create your own webpage to promote "Service Innovation" using AI generated content, such as text, images, and video.
 
 * [Claude AI](https://claude.ai/) was used to generate text.
 * [Bing Image create](https://www.bing.com/images/create/) was used to generate images.
@@ -42,11 +44,17 @@ A demonstration of how to host the website on GitHub Pages as done on this repos
 7. Write something to explain your work
 > TIP: You can use Markdown Preview Enhanced to preview your README file
 8. Go to Source Control and Initalize Repository (you may have to sign in to your GitHub account)
-9. Write a brief message like "created webpage" and Commit the changes and Publish
+9. Write a brief message like "created webpage" and Commit the changes and Publish to your public repository
 10. Your files have now been uploaded onto a GitHub repository! Go to your GitHub account to check it out.
 
 **PART 2:** Host the webpage via GitHub Pages
-1. 
+1. Go to your repository on GitHub
+2. Go to the Settings of that repository
+3. On the left under Code and Automation to go Pages
+4. Under "Branch" select "main" and click Save
+> TIP: Hosting your webpage may take a couple minutes, so get a drink and refresh the page
+5. When it says "Your site is live" your HTML webpage is now up for the internet to see!
+> TIP: Edit the "About" and README.md on your GitHub repository to conveniently include the link to your site 
 
 
 
