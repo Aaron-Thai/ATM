@@ -44,13 +44,14 @@ A demonstration of how to host the website on GitHub Pages as done on this repos
 7. Write something to explain your work
 > TIP: You can use Markdown Preview Enhanced to preview your README file
 8. Go to Source Control and Initalize Repository (you may have to sign in to your GitHub account)
-9. Write a brief message like "created webpage" and Commit the changes and Publish to your public repository
+> TIP: Write a brief message to explain what you did, like "created webpage" 
+9. Commit the changes and Publish to your public repository
 10. Your files have now been uploaded onto a GitHub repository! Go to your GitHub account to check it out.
 
 **PART 2:** Host the webpage via GitHub Pages
 1. Go to your repository on GitHub
 2. Go to the Settings of that repository
-3. On the left under Code and Automation to go Pages
+3. On the left under "Code and Automation" go to Pages
 4. Under "Branch" select "main" and click Save
 > TIP: Hosting your webpage may take a couple minutes, so get a drink and refresh the page
 5. When it says "Your site is live" your HTML webpage is now up for the internet to see!
